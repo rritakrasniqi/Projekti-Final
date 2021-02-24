@@ -25,7 +25,7 @@ session_start();
     <div class="fl_right">
       <ul class="nospace">
         <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="pages/about.php">About</a></li>
         <li><a href="pages/contact.html">Contact</a></li>
         <li><a href="pages/login.php">Login</a></li>
         <li><a href="pages/register.html">Register</a></li>
