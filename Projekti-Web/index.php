@@ -93,25 +93,25 @@ session_start();
         <img class="inspace-10 borderedbox" src="images/demo/bloom1.jpg" alt="">
         <p>Nairobi Flower</p>
 		<p> 23.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
       <li class="one_quarter">
         <img class="inspace-10 borderedbox" src="images/demo/bloom2.jpg" alt="">
         <p>La Belle Rose</p>
 		<p> 35.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		
       </li>
       <li class="one_quarter">
         <img class="inspace-10 borderedbox" src="images/demo/bloom6.jpg" alt="">
        <p>Wild and Wonderful</p>
 		<p> 45.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
       <li class="one_quarter">
         <img class="inspace-10 borderedbox" src="images/demo/bloom7.jpg" alt="">
          <p>Serenity and Bliss</p>
 		<p> 66.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
 	  
     </ul>
@@ -139,25 +139,25 @@ session_start();
         <img src="images/demo/bloom11.jpg" alt="">
         <p>Serenity and Bliss</p>
 		<p> 47.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		
       </li>
       <li class="one_quarter">
         <img src="images/demo/gif3.jpg" alt="">
          <p>Serenity and Bliss</p>
 		<p> 59.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
       <li class="one_quarter">
         <img src="images/demo/bloom14.jpg" alt="">
          <p>Serenity and Bliss</p>
 		<p> 54.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
       <li class="one_quarter">
         <img src="images/demo/bloom3.jpg" alt="">
          <p>Serenity and Bliss</p>
 		<p> 39.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
 	  
 	  
@@ -168,25 +168,25 @@ session_start();
         <img src="images/demo/gif2.jpg" alt="">
         <p>Macaroons and Flowers</p>
 		<p> 47.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		
       </li>
       <li class="one_quarter">
         <img src="images/demo/r.jpg" alt="">
          <p>Colorful Tulips</p>
 		<p> 59.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
       <li class="one_quarter">
         <img src="images/demo/gif.png" alt="">
          <p>Sweet Fairytail</p>
 		<p> 54.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
       <li class="one_quarter">
         <img src="images/demo/gif1.jpg" alt="">
          <p>Renesance Rosese</p>
 		<p> 39.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p>
+		 
       </li>
 	  
     </ul>
@@ -204,19 +204,19 @@ session_start();
         <li class="one_quarter first"><a href="#"><img src="images/demo/bloom7.jpg" alt="">
 		 <p>Abundance of Winter Flowers</p>
 		<p> 55.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
         <li class="one_quarter"><a href="#"><img  src="images/demo/p6.png" alt="">
 		 <p>Abundance of Seasonal </p>
 		<p> 52.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
         <li class="one_quarter"><a href="#"><img  src="images/demo/Flower8.png" alt="">
 		 <p>Mixed Tall Stems for Vases</p>
 		<p> 66.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
         <li class="one_quarter"><a href="#"><img  src="images/demo/y.jpg" alt="">
 		 <p>Serenity and Bliss</p>
 		<p> 41.00€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
 		</ul>
     </figure>
 			  <p class="btmspace-50 justified">  Flowers are the key to making a surprise gift burst with emotion. No matter if the sentiment is one of joy on a birthday, wedding or anniversary or for a sad occasion like a funeral or to express sorrow. Flowers have an almost magical ability to communicate all your feelings from a distance, without a single word being spoken. A bouquet can easily be chosen to fit the characteristics and style of whoever you want to impress and there’s a certain level of luxury implied when you deliver flowers to someone’s door. Let the colours and fresh scents send the perfect message to someone special from anywhere in the world.</p>
@@ -228,19 +228,19 @@ session_start();
         <li class="one_quarter first"><a href="#"><img src="images/demo/z.png" alt="">
 		 <p>Sweet Suprise</p>
 		<p> 23.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
         <li class="one_quarter"><a href="#"><img  src="images/demo/jo.png" alt="">
 		 <p>Ice Cream </p>
 		<p> 39.99€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
         <li class="one_quarter"><a href="#"><img  src="images/demo/bloom4.jpg" alt="">
 		 <p>Bloom</p>
 		<p> 62.70€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
         <li class="one_quarter"><a href="#"><img  src="images/demo/g.png" alt="">
 		 <p>Innocent Love</p>
 		<p> 22.90€</p>
-		 <p><a class="btn" href="#">Add to cart &raquo;</a></p></a></li>
+		
       </ul>
     </figure>
 
