@@ -23,8 +23,9 @@
         <li><a href="../index.php"><i class="fa fa-lg fa-home"></i></a></li>
         <li><a href="about.php">About</a></li>
         <li><a href="contact.php">Contact</a></li>
-		<li><a href="login.php">Login</a></li>
+		    <li><a href="login.php">Login</a></li>
         <li><a href="register.php">Register</a></li>
+        <li><a href="products.php">Products</a></li>
         <li><a href="Upload_pdf.php">Upload</a></li>
 		<li><i class="fa fa-shopping-cart"></i>shopping cart</li>
       </ul>
