@@ -9,12 +9,8 @@
 <link href="../layout/styles/products.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
 <div class="wrapper row0">
   <div id="topbar" class="hoc clear"> 
-    <!-- ################################################################################################ -->
     <div class="fl_left">
       <ul class="nospace">
         <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
@@ -23,16 +19,14 @@
     </div>
     <div class="fl_right">
       <ul class="nospace">
-        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="../index.php"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="about.php">About</a></li>
         <li><a href="contact.html">Contact</a></li>
-		<li><a href="login.html">Login</a></li>
+		    <li><a href="login.php">Login</a></li>
         <li><a href="register.html">Register</a></li>
-        <li><a href="products.html">Products</a></li>
-		<li><i class="fa fa-shopping-cart"></i>shopping cart</li>
+        <li><a href="products.php">Products</a></li>
       </ul>
     </div>
-    <!-- ################################################################################################ -->
   </div>
 </div>
 
