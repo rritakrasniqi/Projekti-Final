@@ -1,0 +1,38 @@
+.dashboard-button{
+    background-color: darkgrey;
+    padding: 20px 40px;
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+    width: 100%;
+    margin: 3%;
+}
+.dashboard-main{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        place-content: center;
+        position: relative;
+        top: 33%;
+}
+.dashboard-row{
+        display: flex;
+        height: 100%;
+}
+.close-button{
+    position: absolute;
+    bottom: 3%;
+    left: 4%;
+    background-color: darkgrey;
+    color: black;
+    padding: 5px 15px;
+}
+.back-button{
+    position: absolute;
+    bottom: 3%;
+    left: 4%;
+    background-color: darkgrey;
+    color: black;
+    padding: 5px 15px;
+}
