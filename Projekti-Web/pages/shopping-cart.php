@@ -32,7 +32,6 @@ echo $_SESSION['email'];
 		<li><i class="fa fa-shopping-cart"></i>shopping cart</li>
       </ul>
     </div>
-    <!-- ################################################################################################ -->
   </div>
 </div>
 
