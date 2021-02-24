@@ -24,12 +24,13 @@ session_start();
     </div>
     <div class="fl_right">
       <ul class="nospace">
-        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="index.php"><i class="fa fa-lg fa-home"></i></a></li>
         <li><a href="pages/about.php">About</a></li>
         <li><a href="pages/contact.html">Contact</a></li>
         <li><a href="pages/login.php">Login</a></li>
         <li><a href="pages/register.html">Register</a></li>
         <li><a href="pages/products.php">Products</a></li>
+        <li><a href="pages/cart.php"><i class="fa fa-shopping-cart"></i>shopping cart</a></li>
         <?php
           if ($_SESSION) {
             echo '<li><a href="pages/cart.php"><i class="fa fa-shopping-cart"></i>shopping cart</a></li>';
